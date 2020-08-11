@@ -1,0 +1,14 @@
+name: curso_ORCAA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipython
+  - xarray
+  - cartopy
+  - imageio
